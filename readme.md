@@ -16,3 +16,7 @@ https://juliadiffeq.org/2019/05/09/GPU.html
 ### Parallel Ensemble Simulations
 https://docs.juliadiffeq.org/latest/features/ensemble.html
 * official documentation for parallel ODE ensembles
+
+### Classical Physics Models
+https://tutorials.juliadiffeq.org/html/models/01-classical_physics.html
+* examples for solving, analyzing, and plotting physical ODEs
