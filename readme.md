@@ -14,7 +14,7 @@ https://juliadiffeq.org/2019/05/09/GPU.html
 * includes example ODE solver using CuArrays and DiffEqFlux
 
 ### Parallel Ensemble Simulations
-https://docs.juliadiffeq.org/latest/features/ensemble.html
+https://docs.sciml.ai/dev/features/ensemble/
 * official documentation for parallel ODE ensembles
 
 ### Classical Physics Models
